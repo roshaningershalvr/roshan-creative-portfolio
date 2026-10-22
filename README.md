@@ -1,4 +1,4 @@
-# Roshan Inggershal VR - Portfolio (React + Vite)
+# Roshan Inggershal VR - Hacker's Portfolio (React + Vite)
 
 ## Run it
     npm install
